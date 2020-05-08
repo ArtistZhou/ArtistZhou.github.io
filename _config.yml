@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            My Blog 
+title:            Hang Zhou
 tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      'Making world better with coding!'
 url:              https://ArtistZhou.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
